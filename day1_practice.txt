@@ -2,3 +2,7 @@
 - git add: them các file mong muốn push
 - git commit -m "message commit": commit code
 - git push [remote_name] [branch_name]: push code lên GitHub/GitLab…
+
+-git pull: pull source code từ github/gitlab về máy local
+- git branch: kiểm tra branch hiện tại 
+
