@@ -1,4 +1,0 @@
-- git status: kiểm tra trạng thái các file trên git
-- git add: them các file mong muốn push
-- git commit -m "message commit": commit code
-- git push [remote_name] [branch_name]: push code lên GitHub/GitLab…
