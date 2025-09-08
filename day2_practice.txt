@@ -3,3 +3,4 @@ thêm nhánh: git checkout -b [branch_name]
 merge nhánh: git merge <source_branch_name> (cần đứng ở nhánh cần merge code rồi mới tiến hành merge)
 git fetch: update toàn bộ nhánh có trên git về phía local của mình (tungnt)
 
+
